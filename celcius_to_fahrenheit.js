@@ -1,4 +1,4 @@
-// Ex 1: Need to create function that converts Celcius to Fahrenheit
+// Ex 1: Need to create function that converts Celcius  to Fahrenheit
 
 function convertToF(celcius) {
     let fahrenheit = null;
