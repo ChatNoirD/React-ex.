@@ -1,6 +1,7 @@
 // Ex 1: Need to create function that converts Celcius  to Fahrenheit
 
 function convertToF(celcius) {
+  
     let fahrenheit = null;
 
     fahrenheit = celcius * 9 / 5 + 32;
