@@ -17,7 +17,7 @@ function reverseString(str) {
         let temp = arr.pop();
         newArr.push(temp);
     } break;
-}
+  }
   str = newArr.join('');
 
   return str;
