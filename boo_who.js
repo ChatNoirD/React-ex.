@@ -9,5 +9,5 @@ function booWho(bool) {
 
   }
   
-console.log(booWho(null));
+booWho(null);
 // To solve the task we have to write a check if the argument is strickly equal to a boolean. Then function just returns true or false.
